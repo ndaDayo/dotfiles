@@ -45,7 +45,6 @@ return {
         groups = {},
       })
 
-      -- カラースキームを読み込む
       vim.cmd("colorscheme nightfox")
     end,
   },
